@@ -1,0 +1,73 @@
+{
+  "memberId": "23232",
+  "date": "2017-02-02",
+  "reportingCurrency": "",
+  "lastUpdatedAt": "",
+  "positions": [
+    {
+      "assetClass": "CASH_EQUIVALENTS",
+      "positions": [
+        {
+          "positionId": "",
+          "accountId": "",
+          "account": "",
+          "description": "",
+          "assetClass": "",
+          "purchaseDate": "",
+          "balance": {
+            "amount": 232.23,
+            "currency": "USD"
+          },
+          "changeFromDay": {
+            "amount": 232.23,
+            "currency": "USD"
+          },
+          "reportingBalance": {
+            "amount": 232.23,
+            "currency": "JPY"
+          },
+          "changeFromDayInReportingCurrency": {
+            "amount": 232.23,
+            "currency": "JPY"
+          }
+        }
+      ]
+    },
+    {
+      "assetClass": "DEPOSITS",
+      "positions": [
+        {
+          "positionId": "",
+          "accountId": "",
+          "account": "",
+          "description": "",
+          "currency": "",
+          "principal": 0.0,
+          "totalCostBasis": 0.0,
+          "balance": {
+            "amount": 232.23,
+            "currency": "USD"
+          },
+          "reportingBalance": {
+            "amount": 232.23,
+            "currency": "JPY"
+          },
+          "maturityDate": "dateformat",
+          "rate": 0.0,
+          "principalIncome": "",
+          "purchaseDate": "",
+          "unrealizedGain": 0.0,
+          "marketPrice": 0.0,
+          "averageCost": 0.0,
+          "yieldPercentage": 0.0,
+          "estimatedAnnualIncome": 0.0,
+          "accruedInterest": 0.0,
+          "interestAtMaturity": 0.0,
+          "cusip": "",
+          "isin": "",
+          "symbol": ""
+        }
+      ]
+    }
+  ]
+}
